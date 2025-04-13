@@ -13,9 +13,7 @@ A responsive dating website for dogs built with Bootstrap 5. Find your furry fri
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Customization](#customization)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
+
 
 ## Features ✨
 
@@ -34,7 +32,7 @@ A responsive dating website for dogs built with Bootstrap 5. Find your furry fri
 5. Footer with navigation
 
 ## Live Demo
-Check out the live version: [TinDog Website Demo](#) *(add your live link here)*
+Check out the live version: [TinDog Website Demo](#) *(https://sara-1129.github.io/Tin-dog-Website/)*
 
 ## Installation
 
